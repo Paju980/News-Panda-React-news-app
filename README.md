@@ -1,3 +1,35 @@
+# News Panda - React.js News Web App
+- News Panda is web app built with `React.js class componenets`.
+- The `News API` is used to fetch the latest news.
+- The `Fetch API` is used for fetching.
+- The app is implemented by keeping the `React Lifecycle` in consideration.
+- Different categories are listed in the Navbar routes to fetch news from those categories.
+- `React Routers` are used to route between different categories
+  
+<br/>
+
+## Here are some Snapshots of the web app
+![Screenshot 2023-06-24 204706](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/f86c0522-5c49-4662-b379-b15890f10bf4)
+
+![Screenshot 2023-06-24 204759](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/8b514c83-6ea8-4d62-b54e-f1c23a3d7200)
+
+![Screenshot 2023-06-24 204839](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/d02f0eca-b7fa-4f12-be80-7836472f3352)
+
+<br/>
+<br/>
+<br/>
+
+### Implementing a spinner when the API takes time to fetch content.
+![Screenshot 2023-06-24 204932](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/13f5ec39-ac5a-43f1-974d-0840d847a0a9)
+
+<br/>
+<br/>
+<br/>
+_______________________________________________________________________________________________________________________________________________
+
+<br/>
+<br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
