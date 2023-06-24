@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Panda-React-news-app/static/css/main.097f37ca.css",
+    "main.js": "/News-Panda-React-news-app/static/js/main.ae078bba.js",
+    "static/js/787.4c026eef.chunk.js": "/News-Panda-React-news-app/static/js/787.4c026eef.chunk.js",
+    "static/media/Pinwheel.gif": "/News-Panda-React-news-app/static/media/Pinwheel.21e3df135d5273d44846.gif",
+    "index.html": "/News-Panda-React-news-app/index.html",
+    "main.097f37ca.css.map": "/News-Panda-React-news-app/static/css/main.097f37ca.css.map",
+    "main.ae078bba.js.map": "/News-Panda-React-news-app/static/js/main.ae078bba.js.map",
+    "787.4c026eef.chunk.js.map": "/News-Panda-React-news-app/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.097f37ca.css",
+    "static/js/main.ae078bba.js"
+  ]
+}
