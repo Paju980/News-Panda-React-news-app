@@ -8,7 +8,6 @@
   
 <br/>
 
-## Here are some Snapshots of the web app
 ![Screenshot 2023-06-24 204706](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/f86c0522-5c49-4662-b379-b15890f10bf4)
 
 ![Screenshot 2023-06-24 204759](https://github.com/Paju980/News-Panda-React-news-app/assets/92621923/8b514c83-6ea8-4d62-b54e-f1c23a3d7200)
